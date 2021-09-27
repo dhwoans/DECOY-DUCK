@@ -1,6 +1,7 @@
-### <center> Hi there 👋</center>
-<br>
-<br>
+# <center> Hi there 👋</center>
+  <center>가운데</center>  
+    
+    
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=tph01198)](https://solved.ac/tph01198)
 * * *
