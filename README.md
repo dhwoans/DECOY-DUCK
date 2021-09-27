@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DECOY-DUCK&show_icons=true&theme=radical)
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj={userid})](https://solved.ac/DECOY-DUCK)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=DECOY-DUCK)](https://solved.ac/DECOY-DUCK)
 <!--
 **DECOY-DUCK/DECOY-DUCK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
