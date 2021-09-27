@@ -5,7 +5,7 @@
 
     
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=tph01198)](https://solved.ac/tph01198)
-    * * *
+ * * *
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DECOY-DUCK&show_icons=true&theme=radical)
 
 
