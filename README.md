@@ -4,7 +4,7 @@
 <img src="https://mblogthumb-phinf.pstatic.net/MjAxOTA2MDJfNzQg/MDAxNTU5NDgzMjcxMTc5.r31w7wXkd5bIjve5hftNOqawzjDiCva6q6xq-w5t8f8g.fZRDuiPlLxgId7OoeFJpMxdrZHkGlh8un-2viMxeix8g.GIF.studygir/tnTuXuT_%282%29.gif?type=w2">    
 
     
-![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=tph01198)](https://solved.ac/tph01198)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=tph01198)](https://solved.ac/tph01198)
     * * *
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DECOY-DUCK&show_icons=true&theme=radical)
 
