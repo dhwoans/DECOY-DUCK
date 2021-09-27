@@ -1,5 +1,6 @@
+<div align=center>
 # <center> Hi there 👋</center>
-  <center>가운데</center>  
+
     
     
 
@@ -22,3 +23,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</div>
