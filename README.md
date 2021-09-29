@@ -1,12 +1,10 @@
-
-
+<div align="center">
 <h2>Hi there 👋<h2>
-    
 <img src="https://mblogthumb-phinf.pstatic.net/MjAxOTA2MDJfNzQg/MDAxNTU5NDgzMjcxMTc5.r31w7wXkd5bIjve5hftNOqawzjDiCva6q6xq-w5t8f8g.fZRDuiPlLxgId7OoeFJpMxdrZHkGlh8un-2viMxeix8g.GIF.studygir/tnTuXuT_%282%29.gif?type=w2">    
+</div>
+<img align="center" src=http://mazassumnida.wtf/api/v2/generate_badge?boj=tph01198 />
+<br><br><br>
 
-
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=tph01198)](https://solved.ac/{userid})
- * * *
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=DECOY-DUCK&show_icons=true&title_color=B4B4FF&bg_color=20232a&text_color=FFFFFF&icon_color=96979a&hide_border=true" width=418px />
 </a>
