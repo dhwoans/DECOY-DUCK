@@ -1,6 +1,6 @@
 <div align="center">
 <h2>Hi there 👋<h2>
-<img src="https://mblogthumb-phinf.pstatic.net/MjAxOTA2MDJfNzQg/MDAxNTU5NDgzMjcxMTc5.r31w7wXkd5bIjve5hftNOqawzjDiCva6q6xq-w5t8f8g.fZRDuiPlLxgId7OoeFJpMxdrZHkGlh8un-2viMxeix8g.GIF.studygir/tnTuXuT_%282%29.gif?type=w2">    
+<img src="http://file2.instiz.net/data/file2/2015/11/14/7/a/b/7ab3461bc96fac84c33068203d6d1c45.gif">    
 </div>
 <img align="center" src=http://mazassumnida.wtf/api/v2/generate_badge?boj=tph01198 />
 <br><br><br>
